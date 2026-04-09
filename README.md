@@ -77,7 +77,3 @@ This repository contains the **User Panel (Frontend)** that allows users to:
 **Backend (Planned):**
 - Node.js / FastAPI
 - Machine Learning Models (Python, scikit-learn)
-
----
-
-## 📂 Project Structure
