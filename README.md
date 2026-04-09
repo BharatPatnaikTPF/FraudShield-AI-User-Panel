@@ -67,9 +67,9 @@ This repository contains the **User Panel (Frontend)** that allows users to:
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- React.js / Next.js
+- React.js
 - HTML, CSS, JavaScript
-- Tailwind CSS (optional)
+- Tailwind CSS
 
 **Design:**
 - Figma
