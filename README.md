@@ -77,3 +77,28 @@ This repository contains the **User Panel (Frontend)** that allows users to:
 **Backend (Planned):**
 - Node.js / FastAPI
 - Machine Learning Models (Python, scikit-learn)
+
+---
+
+## 📂 Project Structure
+/src
+/app
+/components
+
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/fraudshield-user-panel.git
+
+# Navigate to project
+cd fraudshield-user-panel
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
